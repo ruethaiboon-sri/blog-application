@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #333;
+    padding-right: 2rem;
+}
+
+.logo{
+    margin-right:auto ;
+    padding-left: 2rem;
+    color: white
+}
+a{
+    color:white;
+    text-decoration: 12px;
+    margin-left:12px;
+    font-size: 0.95rem;
+    padding: 10px;
+}
+a:hover{
+    color: rgb(153, 153, 255);
+}
